@@ -38,9 +38,9 @@ Source: Youtube.com.
 The core business problem this Credit Card Dashboard addresses is the need for financial institutions or credit card providers to gain actionable clarity into their credit card operations, financial health, and customer risk.
 
 ### Key questions such as:
-• What is the current total revenue and transaction volume (Total Sales/Transaction Amount)?
-• How does current performance compare to previous periods? (e.g., Year-over-Year (YOY) or Month-over-Month growth in transactions and revenue).
-• What is the revenue distribution across different segments or transaction types?
+• What is the current total revenue and transaction volume (Total Sales/Transaction Amount)? <br>
+• How does current performance compare to previous periods? (e.g., Year-over-Year (YOY) or Month-over-Month growth in transactions and revenue). <br>
+• What is the revenue distribution across different segments or transaction types? <br>
 • Are there any anomalies or unusual spikes in transaction volume or amount that could indicate potential fraud or operational issues?
 
 ### Goal of the Dashboard:
