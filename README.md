@@ -1,4 +1,4 @@
-### 1.Credit_Card_Financial_Dashboard
+### 1.Credit_Card_Financial_Dashboard (Power BI & SQL)
 
 Developed an interactive Power BI dashboard to analyze credit card transaction performance. It provides insights into total revenue, transaction volume and interest earned across different quarters, card types, income groups, and customer segments. The dashboard helps identify key revenue drivers by education level, job type, and spending categories, enabling data-driven decision-making for business growth.
 
